@@ -1,0 +1,9 @@
+.chatbot-message-avatar {
+    background-image: url('/robotpic.png'); /* The URL to your image */
+    background-size: cover; /* Cover the entire area of the avatar */
+    background-position: center; /* Center the image within the element */
+    border-radius: 50%; /* Make it round */
+    width: 50px; /* Set the width */
+    height: 50px; /* Set the height */
+  }
+  
