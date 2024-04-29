@@ -5,6 +5,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center; /* Center children horizontally */
+  background-color: #55D6C2;
 }
 
 .App-header {
@@ -17,4 +18,10 @@
 
 .react-chatbot-kit-chat-container {
   width: 40vw;
+  border: 1px solid #000; /* Example border: solid, 2 pixels wide, black */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Creates a "floating" effect */
+  margin: 20px auto; /* Adds some space around the container and centers it horizontally */
+  border-radius: 10px; /* Optional: rounds the corners of the border */
 }
+
+/* FF8966 */
